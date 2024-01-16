@@ -1,0 +1,14 @@
+---
+receta:
+  Informacion general: 
+    Nombre: mia
+    Tiempo: 3mn
+    Tiempococ: 3
+    Porciones: 5
+  ingredientes:
+    - pan
+    - Huevos
+    - leche
+  instrucciones: | 
+    Estos se va a hacer asi
+...

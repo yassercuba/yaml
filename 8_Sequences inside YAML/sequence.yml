@@ -12,7 +12,7 @@ locations: [Hyderabad, NewYork, Berlin, "Paris"]
 # Embeded/Nested Sequences
 products:
   - Accounts:
-      - Savings Account
+      - !!str Savings Account
       - Current Account
   - Loans:
       - Home Loan
